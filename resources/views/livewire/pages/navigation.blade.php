@@ -1,5 +1,5 @@
-<header class="h-[80px] flex justify-center items-center">
-    <div class="myContainer flex justify-between items-center h-[100%]">
+<header class="h-[60px] w-[100%] flex justify-center items-center fixed top-[20px] left-0 z-[999] drop-shadow-xl" >
+    <div class="myContainer flex justify-between items-center h-[100%] bg-white ">
         <div class="flex gap-[50px]">
                <div class="logo h-[100%] flex justify-center items-center">
             <h1 class="text-[20px] poppins-black">immo</h1>

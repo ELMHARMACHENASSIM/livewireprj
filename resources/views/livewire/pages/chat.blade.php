@@ -1,4 +1,4 @@
-<section class="w-[100%] h-[calc(100vh-80px)] flex">
+<section class="w-[100%] h-[calc(100vh-80px)] flex mt-[80px]">
     <div class="w-[30%] h-[100%]  bg-[#fafafa]">
         <div class="myContainer">
             <div class="flex justify-center items-center gap-[20px] p-[20px]">
